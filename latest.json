@@ -1,10 +1,10 @@
 {
-  "version": "0.9.2",
-  "publishedAt": "2026-08-11T13:11:34.860Z",
-  "assetName": "Ajvosub-0.9.2-premiere.ccx",
-  "downloadUrl": "https://raw.githubusercontent.com/Michaelb357/Ajvosub-Updates/main/assets/Ajvosub-0.9.2-premiere.ccx",
-  "windowsBundleName": "AJDA-Windows-0.9.2.zip",
-  "windowsBundleUrl": "https://raw.githubusercontent.com/Michaelb357/Ajvosub-Updates/main/assets/AJDA-Windows-0.9.2.zip",
-  "sha256": "0d96371a4dc2a30bec6198d2d25baafd6c4c847ffd02a37b975da4dc251017e5",
-  "notes": "AJDA 0.9.2"
+  "version": "0.9.3",
+  "publishedAt": "2026-08-11T13:15:46.654Z",
+  "assetName": "Ajvosub-0.9.3-premiere.ccx",
+  "downloadUrl": "https://raw.githubusercontent.com/Michaelb357/Ajvosub-Updates/main/assets/Ajvosub-0.9.3-premiere.ccx",
+  "windowsBundleName": "AJDA-Windows-0.9.3.zip",
+  "windowsBundleUrl": "https://raw.githubusercontent.com/Michaelb357/Ajvosub-Updates/main/assets/AJDA-Windows-0.9.3.zip",
+  "sha256": "0cc56b41267a20a6cfcb396c2927a6d2d8b05dda87447949ed436be305527d66",
+  "notes": "AJDA 0.9.3"
 }
