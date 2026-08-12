@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "publishedAt": "2026-08-12T14:24:57.560Z",
-  "assetName": "Ajvosub-1.0.0-premiere.ccx",
-  "downloadUrl": "https://raw.githubusercontent.com/Michaelb357/Ajvosub-Updates/main/assets/Ajvosub-1.0.0-premiere.ccx",
-  "sha256": "600717d93634619f2c4a7de8f189b7995493a083f99c745993b10ab26f4b7c17",
-  "installerName": "AJDA-Setup-1.0.0.exe",
-  "installerUrl": "https://github.com/Michaelb357/Ajvosub-Updates/releases/download/v1.0.0/AJDA-Setup-1.0.0.exe",
-  "installerSha256": "ace4b9ff4ed083be25c33b024a805c79ad4bfdde08a5f1f6bf0c7c1515dce9fe",
-  "notes": "AJDA 1.0.0"
+  "version": "1.0.1",
+  "publishedAt": "2026-08-12T14:35:47.347Z",
+  "assetName": "Ajvosub-1.0.1-premiere.ccx",
+  "downloadUrl": "https://raw.githubusercontent.com/Michaelb357/Ajvosub-Updates/main/assets/Ajvosub-1.0.1-premiere.ccx",
+  "sha256": "f11c6ff0d487d0e4c7022aeb06f08d3ab0c9a5609f695430e8fb4d724908fa33",
+  "installerName": "AJDA-Setup-1.0.1.exe",
+  "installerUrl": "https://github.com/Michaelb357/Ajvosub-Updates/releases/download/v1.0.1/AJDA-Setup-1.0.1.exe",
+  "installerSha256": "7a3d6d849c21693c402ae781dee6b046bebd1952cd1bf1f9816a3158d391642b",
+  "notes": "AJDA 1.0.1"
 }
